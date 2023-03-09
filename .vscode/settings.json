@@ -1,0 +1,5 @@
+{
+  // VSCode CSSModuels Plugin + Rollup 설정을 적용하여
+  // css의 cebab-case 클래스명을 camelCase로 변환하여 사용할 수 있습니다.
+  "cssModules.camelCase": true
+}

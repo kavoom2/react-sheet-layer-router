@@ -1,7 +1,7 @@
 {
   "name": "react-sheet-layer-router",
   "version": "0.0.1",
-  "repository": "https://github.com/kavoom2/react-sheet-layer.git",
+  "repository": "https://github.com/kavoom2/react-sheet-layer-router.git",
   "keywords": [
     "react",
     "react component",
@@ -78,6 +78,8 @@
     "zustand": "^4.3.6"
   },
   "dependencies": {
-    "classnames": "^2.3.2"
+    "body-scroll-lock": "^4.0.0-beta.0",
+    "classnames": "^2.3.2",
+    "focus-trap-react": "^10.1.1"
   }
 }

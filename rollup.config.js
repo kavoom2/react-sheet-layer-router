@@ -74,7 +74,6 @@ const config = [
    */
   {
     input: "./dist/types/index.d.ts",
-    external,
     output: [{ file: `dist/index.d.ts`, format: "esm" }],
     plugins: [dts.default()],
   },
